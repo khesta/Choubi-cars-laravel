@@ -1,0 +1,27 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "autoprefixer": "^10.4.21",
+        "axios": "^1.7.7",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^1.2.0",
+        "postcss": "^8.5.3",
+        "sass": "^1.56.1",
+        "tailwindcss": "^3.4.17",
+        "vite": "^6.2.2"
+    },
+    "dependencies": {
+        "@tailwindcss/forms": "^0.5.3",
+        "braces": "^3.0.3",
+        "flowbite": "^1.6.5",
+        "follow-redirects": "^1.15.9",
+        "micromatch": "^4.0.8",
+        "rollup": "^3.29.5"
+    }
+}
